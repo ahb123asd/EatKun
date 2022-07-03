@@ -112,7 +112,7 @@ function gameInit() {
         id: "end"
     });
     createjs.Sound.registerSound({
-        src: "./static/music/nm.mp3",
+        src: "./static/music/123.mp3",
         id: "tap"
     });
     gameRestart();
